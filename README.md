@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on graph neural networks, graph mining, and applied machine learning projects.
 - 💬 Feel free to ask me any questions.
 
-| ---------- | :-----------:  |
+| ---------------------------------------- | :-----------------------------------------:  |
 |Programming Language| |
 |Domain Knownledge| |
 |CI/CD| |
