@@ -5,6 +5,16 @@
 - 🌱 I’m currently working on graph neural networks, graph mining, and applied machine learning projects.
 - 💬 Feel free to ask me any questions.
 
+| ---------- | :-----------:  |
+|Programming Language| |
+|Domain Knownledge| |
+|CI/CD| |
+|Software & Frameworks| |
+
+
+
+
+
 ### GitHub Activity Graph:
 ![](https://raw.githubusercontent.com/xhuang2016/xhuang2016/main/assets/github-snake.svg)   
 
