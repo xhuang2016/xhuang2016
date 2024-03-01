@@ -4,7 +4,7 @@
 - 🔭 I’m currently a Ph.D. candidate in computer science at Texas State University.
 - 🌱 I’m currently working on graph neural networks, graph mining, and applied machine learning projects.
 - 💬 Feel free to ask me any questions.
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/xin-huang-344398150/)
+- 📫 How to reach me: [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/xhuang2016) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/xin-huang-344398150/)
 
 | Skills |  |
 | ------------------------------------------------------------ |----------------------------------------- |
