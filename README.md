@@ -1,10 +1,10 @@
-### Hi! There is XIN 👋
+## Hi! There is XIN 👋
 
-## About Me
+### About Me
 - 🔭 I’m currently a Ph.D. candidate in computer science at Texas State University.
 - 💬 Feel free to ask me any questions.
 
-## GitHub Activity Graph:
+### GitHub Activity Graph:
 ![](https://raw.githubusercontent.com/xhuang2016/xhuang2016/main/assets/github-snake.svg)   
 
 <!--
