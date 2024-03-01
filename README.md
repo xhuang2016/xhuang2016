@@ -1,7 +1,8 @@
 ## Hi! There is XIN 👋
 
-### About Me
+### About Me:
 - 🔭 I’m currently a Ph.D. candidate in computer science at Texas State University.
+- 🌱 I’m currently working on graph neural networks, graph mining, and applied machine learning projects.
 - 💬 Feel free to ask me any questions.
 
 ### GitHub Activity Graph:
