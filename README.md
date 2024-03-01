@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! There is XIN 👋
+
+- 🔭 I’m currently a Ph.D. candidate in computer science at Texas State University.
+- 💬 Feel free to ask me any questions.
+
 
 <!--
 **xhuang2016/xhuang2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+GitHub Activity Graph:
 ![](https://raw.githubusercontent.com/xhuang2016/xhuang2016/main/assets/github-snake.svg)              
